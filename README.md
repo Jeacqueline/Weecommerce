@@ -93,4 +93,4 @@ The following animation shows the application's POST, PUT, and DELETE routes for
 
 [GitHub/Jeacqueline Weecommerce](https://github.com/Jeacqueline/Weecommerce)
 
-[Video/ Jeacqueline/ My Super Team](https://drive.google.com/file/d/1F3CGWYtApL9iedhPOwA2-xmEwpLtCzZB/view)
+[Video/ Jeacqueline/ Weecommerce](https://drive.google.com/file/d/1F3CGWYtApL9iedhPOwA2-xmEwpLtCzZB/view)
