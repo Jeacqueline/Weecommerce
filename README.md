@@ -36,13 +36,13 @@ To install and use Weecommerce, please follow these steps:
 - Clone this repository to your local machine.
 - Open the project directory and run npm install to install the project dependencies.
 - Create an environment variable file .env and add the following variables:
-´´md 
+```
 DB_NAME=<your-database-name>
 DB_USER=<your-database-username>
 DB_PASSWORD=<your-database-password>
-´´
+```
 - Type the following commands to create and seed the development database:
-´´´
+```
 User@User Develop% npm i
  mysql -u root -p
  Enter your password: ********
@@ -52,7 +52,7 @@ User@User Develop% npm i
  exit
 
  User@User Develop% npm run start
-´´´
+```
 - Open Insomnia to test the API routes
 
 #### API routes: 
